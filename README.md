@@ -4,6 +4,11 @@
 
 A simple Todo application built with .NET, React, and Entity Framework.
 
+- **Post Request**
+- **Put Request**
+- **Delete Request**
+- **Get Request**
+
 ## Features
 
 - **Backend**: .NET Core Web API.
