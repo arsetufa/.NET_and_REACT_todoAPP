@@ -78,10 +78,4 @@ A simple Todo application built with .NET, React, and Entity Framework.
    npm start
    ```
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgments
-
-- Special thanks to ChatGPT by OpenAI for step-by-step guidance in building this application.
+## Happy Hacking!!!
